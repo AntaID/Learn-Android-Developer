@@ -2,4 +2,4 @@
 
 Ini adalah catatan perjalananku belajar menjadi Android Developer dari nol.
 
-Repositori ini berisi semua kode latihan, proyek, dan catatan dari Modul 0 sampai 8.
+Repositori ini berisi semua kode latihan, proyek, dan catatan.
