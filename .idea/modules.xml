@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Fondasi_Pemrograman/Fase 3/Array/Array.iml" filepath="$PROJECT_DIR$/01_Fondasi_Pemrograman/Fase 3/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Learn_Android_Developer.iml" filepath="$PROJECT_DIR$/.idea/Learn_Android_Developer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Fondasi_Pemrograman/Fase 2/Percabangan/Percabangan.iml" filepath="$PROJECT_DIR$/01_Fondasi_Pemrograman/Fase 2/Percabangan/Percabangan.iml" />
+    </modules>
+  </component>
+</project>

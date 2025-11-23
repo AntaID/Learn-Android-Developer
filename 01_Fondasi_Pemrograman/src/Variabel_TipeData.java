@@ -1,4 +1,4 @@
-public class DataDiri {
+public class Variabel_TipeData {
     public static void main(String[] args) {
 
         String nama = "Ahmad Anta";
