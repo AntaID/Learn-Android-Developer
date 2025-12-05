@@ -1,3 +1,5 @@
+package Variabel;
+
 public class Variabel_TipeData {
     public static void main(String[] args) {
 
